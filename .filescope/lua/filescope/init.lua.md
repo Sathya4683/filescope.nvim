@@ -17,6 +17,8 @@ This file contains the core plugin logic and public API.
 
 ## Core flow
 
+## Adding more notes!!!
+
 ```text
 current buffer
     ↓
