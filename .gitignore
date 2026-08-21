@@ -1,0 +1,13 @@
+# Neovim
+*.swp
+*.swo
+*~
+
+# OS / editor
+.DS_Store
+
+# Lua tooling
+.luarocks/
+
+# Local test projects / temporary files
+tmp/
