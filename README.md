@@ -11,6 +11,8 @@
 </div>
 
 ---
+## Demo
+![FileScope demo](assets/demo.gif)
 
 ## Why
 
@@ -26,9 +28,6 @@ filescope gives every file its own markdown note, stored in a folder that mirror
 - Zero dependencies, pure Lua
 - One file, no bloat
 
-## Demo
-
-(Add a GIF here. A short recording of the four-direction toggle in action is worth more than any amount of written description.)
 
 ## Requirements
 
